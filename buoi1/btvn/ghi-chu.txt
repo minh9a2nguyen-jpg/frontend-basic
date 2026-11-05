@@ -1,0 +1,41 @@
+GHI CHÚ PHÂN TÍCH LANDING PAGE - BTVN BUỔI 1
+
+Trang: Thư Viện Pháp Luật (bản mobile)
+Link: https://m.thuvienphapluat.vn/
+
+1. MỤC ĐÍCH
+- Tra cứu văn bản pháp luật Việt Nam.
+- Cập nhật tin tức, hỏi đáp và thảo luận về pháp luật.
+- Giới thiệu và bán các gói dịch vụ (Free, Basic, TVPL Pro).
+
+2. ĐỐI TƯỢNG
+- Sinh viên luật, kế toán, doanh nghiệp, người lao động
+  và bất kỳ ai cần tra cứu quy định pháp luật.
+
+3. HERO
+- Logo + khẩu hiệu của trang.
+- Ô Tìm kiếm và link Tìm kiếm nâng cao.
+
+4. CÁC SECTION CHÍNH
+- Section 1: Thông báo văn bản mới (danh sách tin kèm ngày đăng).
+- Section 2: Văn bản pháp luật mới (tên văn bản, ngày ban hành, hiệu lực).
+- Section 3: Công văn mới (tên công văn, ngày ban hành, hiệu lực).
+- Section 4: Thời sự pháp luật (danh sách bài viết mới).
+- Section 5: Các gói dịch vụ (Free, Basic, TVPL Pro, nút Xem chi tiết).
+
+5. CTA CHÍNH
+- CTA chính: Tìm kiếm (hành động người dùng làm nhiều nhất).
+- CTA chuyển đổi: Đăng ký tài khoản / Xem chi tiết gói dịch vụ.
+
+6. HEADER VÀ FOOTER
+- Header: logo, Đăng nhập / Đăng ký, menu (Văn bản pháp luật,
+  Chính sách pháp luật mới, Hỏi đáp pháp luật, Thảo luận pháp luật...).
+- Footer: bản quyền 2026, hotline, Zalo, email, địa chỉ.
+
+7. KẾ HOẠCH DỰNG SKELETON
+- header: <a> cho menu
+- hero: <h1> tên trang, <p> khẩu hiệu, <a> Tìm kiếm
+- section thông báo và thời sự: <ul> và <li>
+- section văn bản mới, công văn: <table>
+- section gói dịch vụ: <ul> và <a>
+- footer: bản quyền và thông tin liên hệ
